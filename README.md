@@ -20,10 +20,21 @@ sudo apt install openssh-client
 
 **第二步**
 
-在视觉板的 设置->共享 找到远程登录 复制图片中的内容
+在视觉板的 设置->共享 找到远程登录 复制图片红框中的内容
 
+![image](https://github.com/user-attachments/assets/9c148dc5-3c37-4fdd-aac9-5e7cc06857e6)
 
 
 **第三步**
 
 在自己电脑 文件->其他位置 最下面如图格式输入即可实现可视化连接
+
+![image](https://github.com/user-attachments/assets/81f5520b-734a-4751-8007-2cd844028791)
+
+![image](https://github.com/user-attachments/assets/618cb968-981c-4700-bfa3-c7535ea138bd)
+
+![image](https://github.com/user-attachments/assets/e55b43c5-de95-453e-8cf0-ac1ba89825da)
+
+
+
+
