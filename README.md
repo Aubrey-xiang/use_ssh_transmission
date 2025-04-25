@@ -1,0 +1,2 @@
+# use_ssh_transmission
+ubuntu使用ssh与视觉板互传文件
